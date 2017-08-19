@@ -1,7 +1,10 @@
 # bigdata
 
 script name: parse_from_html.py <br>
-main function: extract tel/email; normalnize date; clean data from html pages. <br> 
+main function: 
+>  * extract tel/email, <br> 
+  * normalnize date, <br> 
+  * clean data from html pages. <br> 
 
 file folder name: auto_summary <br> 
 main function: extract some important sentances from an essay as its summary. <br> 

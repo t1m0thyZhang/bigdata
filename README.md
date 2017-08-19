@@ -9,6 +9,7 @@ main function:
 file folder name: auto_summary <br> 
 main function: 
  * extract some important sentances from an essay as its summary. <br> 
+
 input: copy the essay into <font color=#0099ff>source.txt<font/>, and run the python script <br> 
 output: find the result in summary.txt or cmdline <br> 
 

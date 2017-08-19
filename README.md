@@ -3,7 +3,7 @@
 script name: parse_from_html.py <br>
 main function: 
   * extract tel/email, <br> 
-  * normalnize date, <br> 
+  * normalize date, <br> 
   * clean data from html pages. <br> 
 
 file folder name: auto_summary <br> 

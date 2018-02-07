@@ -12,7 +12,3 @@ main function:
 
 input: copy the essay into **`source.txt`**, and run the python script <br> 
 output: find the result in **`summary.txt`** or cmdline <br> 
-
-```Python
-print 'hello'
-```
